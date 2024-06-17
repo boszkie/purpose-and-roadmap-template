@@ -8,7 +8,7 @@ Use this template for a more structured approach, covering relevant subjects ste
 
 The template is available in the following formats:
 
-- a [Mural template](https://app.mural.co/t/tadaaa7088/template/e1ec3c61-e87f-4be8-b246-6e7dc80432aa) you can open and save to your own Mural workspace,
+- a [Mural template](https://app.mural.co/template/e1ec3c61-e87f-4be8-b246-6e7dc80432aa/00bbfb4f-df79-4760-b042-baf3859467dd) you can open and save to your own Mural workspace,
 - a [Miro](Vision&Roadmap_v1.0.rtb) template you can upload to your Miro workspace,
 - a [pdf](SprintPlanning_v1.0.pdf) for your printing purposes,
 - a [png](Vision&Roadmap_v1.0.png) image file.
