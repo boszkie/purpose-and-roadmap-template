@@ -1,4 +1,4 @@
-# Prupose & Roadmap Template
+# Purpose & Roadmap Template
 
 ![Purpose & Roadmap](Purpose&Roadmap_v2.0.png)
 
