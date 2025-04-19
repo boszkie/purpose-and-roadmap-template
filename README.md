@@ -9,7 +9,7 @@ It will help you to create focus and alignment in your team, bringing them toget
 
 The template is available in the following formats:
 
-- a [Mural template](https://app.mural.co/template/e1ec3c61-e87f-4be8-b246-6e7dc80432aa/00bbfb4f-df79-4760-b042-baf3859467dd) you can open and save to your own Mural workspace,
+- a [Mural template](https://app.mural.co/template/c39babb8-7d6a-4100-96f0-20d85fc7b69b/39b1b601-583f-4df9-a29b-d1f6a1d3fed2) you can open and save to your own Mural workspace,
 - a [Miro](Purpose&Roadmap_v2.0.rtb) template you can upload to your Miro workspace,
 - a [pdf](Purpose&Roadmap_v2.0.pdf) for your printing purposes,
 - a [png](Product&Roadmap_v2.0.png) image file.
