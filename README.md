@@ -12,7 +12,7 @@ The template is available in the following formats:
 - a [Mural template](https://app.mural.co/template/c39babb8-7d6a-4100-96f0-20d85fc7b69b/39b1b601-583f-4df9-a29b-d1f6a1d3fed2) you can open and save to your own Mural workspace,
 - a [Miro](Purpose&Roadmap_v2.0.rtb) template you can upload to your Miro workspace,
 - a [pdf](Purpose&Roadmap_v2.0.pdf) for your printing purposes,
-- a [png](Product&Roadmap_v2.0.png) image file.
+- a [png](Purpose&Roadmap_v2.0.png) image file.
 
 The template should be useful for any kind of team, whether you are doing Scrum or Kanban, XP or not using any framework at all. In fact I've even used it to brainstorm home projects and a new company.
 
