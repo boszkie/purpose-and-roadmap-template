@@ -2,9 +2,10 @@
 
 ![Purpose & Roadmap](Purpose&Roadmap_v2.0.png)
 
-Brought to you by Scrum Facilitators, a Purpose & Roadmap template to help you get started with your team vision and manage your long term strategy.
+A Purpose & Roadmap template to help you help you define your **Team Purpose** and help you manage your long term strategy. 
 
-Use this template for a more structured approach, covering relevant goals step by step.
+The template provides a structured approach which takes into account the most important aspects to consider, making it easier for you to make choices and prioritise your work. 
+It will help you to create focus and alignment in your team, bringing them together into an eager and highly motivated unit.
 
 The template is available in the following formats:
 
@@ -13,26 +14,27 @@ The template is available in the following formats:
 - a [pdf](Purpose&Roadmap_v2.0.pdf) for your printing purposes,
 - a [png](Product&Roadmap_v2.0.png) image file.
 
-The template includes a short manual describing how to use it.
+The template should be useful for any kind of team, whether you are doing Scrum or Kanban, XP or not using any framework at all. In fact I've even used it to brainstorm home projects and a new company.
 
-The template should be useful for any kind of team, whether you are doing Scrum or Kanban or even XP. In fact I've even used it to brainstorm a new company. You can use it when starting with a new team, to create a common purpose and a strategy to achieve that purpose, but also as a tool to manage your purpose and strategy as a recurring part of your work as a team.
+For every step use whatever approach fits your team to craft the item. This could just be an open discussion, but you could also use a Liberating Structure like 1-2-4-all. The goal is to collect the insights of the whole team and create a purpose the whole team believes in.
 
-The template will guide you in thinking about the most important aspects of strategy, making it easier for you to make choices and prioritise your work.
+Note that all the information you collect in the template is only the best guess you can make based on the information you have right now. It is important to keep revisiting the template as you discover more information.
 
-**Note** *that you can use this template together with our [Sprint Planning template](https://github.com/ScrumFacilitators/sprint-planning-template), to translate your Purpose & Roadmap into an effective plan for your sprint.*
+Note that you can use this template together with the [Sprint Planning template](https://github.com/ScrumFacilitators/sprint-planning-template), to translate your Purpose & Roadmap into an effective plan for your sprint.
 
 ## Manual
 Check the separate [manual](MANUAL.md) file.
 
 ## Feedback, requests and issues
+
 If you have any feedback, please let us know by logging an issue here on github.
 
 If you have made improvements that you think will contribute to the product, feel free to open a pull request.
 
 ## License
-The Purpose & Roadmap Template by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+The Purpose & Roadmap Template is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 All the materials in this repository are subject to this license. See the above link for a human-readable summary and the included [LICENSE.md](LICENSE.md) file for the full license text.
 
-Have fun! Greetings from the Scrum Facilitators crew
-
-[![SF](https://www.scrumfacilitators.com/images/logo.png)](https://www.scrumfacilitators.nl)
+Have fun!
